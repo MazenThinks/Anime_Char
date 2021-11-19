@@ -2,7 +2,7 @@
 
 y = "(yes .. {} kun is here! <3)"
 
-mylist = ("Ereh" , "Lighto" , "L" , "Armin" , "Levi")
+mylist = ("Ereh" , "Lighto" , "L" , "Armin" , "Levi" , "Naruto")
 
 x = input("Enter your fav anime char name : ")
 if x in mylist:
